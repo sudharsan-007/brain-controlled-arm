@@ -16,5 +16,5 @@ A nRF24L01 wireless transceiver module is used to communicate between the EEG re
 
 
 ## Contributors 
-Tzipora Ziegler
-Sudharsan Ananth
+[Tzipora Ziegler](https://www.linkedin.com/in/tziporaz/)
+[Sudharsan Ananth](https://www.linkedin.com/in/sudharsan-ananth/)
